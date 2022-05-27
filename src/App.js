@@ -194,6 +194,11 @@ class App extends Component {
                         <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
                     </div>
                     <div class="form-floating mb-3">
+                        <textarea class="form-control" id="affair" type="text" placeholder="Enter your affair here..." data-sb-validations="required"></textarea>
+                        <label for="affair">Affair</label>
+                        <div class="invalid-feedback" data-sb-feedback="affair:required">A affair is required.</div>
+                    </div>
+                    <div class="form-floating mb-3">
                         <textarea class="form-control" id="message" type="text" placeholder="Enter your message here..." data-sb-validations="required"></textarea>
                         <label for="message">Message</label>
                         <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>

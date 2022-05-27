@@ -30,19 +30,18 @@ class App extends Component {
     return (
       <div className="resume-section-content">
         <h1 className="mb-0">
-            Clarence
-            <span className="text-primary">Taylor</span>
+            Dylan
+            <span className="text-primary"> Arias</span>
         </h1>
         <div className="subheading mb-5">
-            3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
-            <a href="mailto:name@email.com">name@email.com</a>
+            KR 22 A # 73 - 120 Manizales(Caldas)
+            <br/>
+            <a href="dylanst52286@gmail.com">dylanst52286@gmail.com</a>
         </div>
-        <p className="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+        <p className="lead mb-5">Dylan is a 21-year-old boy, a lover of life, of good movies and an afternoon with the family, he dreams of traveling and getting to know many parts of Colombia and the whole world, he works every day towards his dreams and it is faithful to the fact that everything in life is possible as long as we never set limits for ourselves.</p>
         <div className="social-icons">
-            <a className="social-icon" href="#!"><i className="fab fa-linkedin-in"></i></a>
-            <a className="social-icon" href="#!"><i className="fab fa-github"></i></a>
-            <a className="social-icon" href="#!"><i className="fab fa-twitter"></i></a>
-            <a className="social-icon" href="#!"><i className="fab fa-facebook-f"></i></a>
+            <a className="social-icon" href="https://www.linkedin.com/in/dylan-arias-arenas-783988141"><i className="fab fa-linkedin-in"></i></a>
+            <a className="social-icon" href="https://github.com/darias05"><i className="fab fa-github"></i></a>
         </div>
       </div>
     ); 

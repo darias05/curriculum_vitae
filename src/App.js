@@ -85,20 +85,24 @@ class App extends Component {
         <h2 className="mb-5">Education</h2>
         <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
-                <h3 className="mb-0">University of Colorado Boulder</h3>
-                <div className="subheading mb-3">Bachelor of Science</div>
-                <div>Computer Science - Web Development Track</div>
-                <p>GPA: 3.23</p>
+                <h3 className="mb-0">SYSTEMS ENGINEERING AND TELECOMMUNICATIONS</h3>
+                <div className="subheading mb-0">Present (Semester V)</div>
+                <div className="flex-shrink-0"><span className="text-primary">University of Manizales / Manizales (Caldas) - Colombia</span></div>
             </div>
-            <div className="flex-shrink-0"><span className="text-primary">August 2006 - May 2010</span></div>
         </div>
-        <div className="d-flex flex-column flex-md-row justify-content-between">
+        <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
-                <h3 className="mb-0">James Buchanan High School</h3>
-                <div className="subheading mb-3">Technology Magnet Program</div>
-                <p>GPA: 3.56</p>
+                <h3 className="mb-0">TECHNOLOGIST IN COMMERCIAL INFORMATION SYSTEMS FOR INTERNET</h3>
+                <div className="subheading mb-0">2020</div>
+                <div className="flex-shrink-0"><span className="text-primary">University of Manizales / Manizales (Caldas) - Colombia</span></div>
             </div>
-            <div className="flex-shrink-0"><span className="text-primary">August 2002 - May 2006</span></div>
+        </div>
+        <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div className="flex-grow-1">
+                <h3 className="mb-0">PROFESSIONAL TECHNICIAN IN CONFIGURATION OF COMMERCIAL SERVICES WEB</h3>
+                <div className="subheading mb-0">2019</div>
+                <div className="flex-shrink-0"><span className="text-primary">University of Manizales / Manizales (Caldas) - Colombia</span></div>
+            </div>
         </div>
       </div>
     ); 

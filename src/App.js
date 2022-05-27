@@ -53,35 +53,27 @@ class App extends Component {
         <h2 className="mb-5">Experience</h2>
         <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
-                <h3 className="mb-0">Senior Web Developer</h3>
-                <div className="subheading mb-3">Intelitec Solutions</div>
-                <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                <h3 className="mb-0">Bancolombia</h3>
+                <div className="subheading mb-3">Software Development Engineer at Bancolombia</div>
+                <p></p>
             </div>
-            <div className="flex-shrink-0"><span className="text-primary">March 2013 - Present</span></div>
+            <div className="flex-shrink-0"><span className="text-primary">November 2021 - Present</span></div>
         </div>
         <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
-                <h3 className="mb-0">Web Developer</h3>
-                <div className="subheading mb-3">Intelitec Solutions</div>
-                <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+                <h3 className="mb-0">Comdata Group</h3>
+                <div className="subheading mb-3">Automation and Analytics at Comdata Spain & Latam</div>
+                <p>Implementation of Bots automations with Selenium, query automation in BigQuery, Speecht to text and data cleaning with Python.</p>
             </div>
-            <div className="flex-shrink-0"><span className="text-primary">December 2011 - March 2013</span></div>
+            <div className="flex-shrink-0"><span className="text-primary">August 2021 - November 2021</span></div>
         </div>
         <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
-                <h3 className="mb-0">Junior Web Designer</h3>
-                <div className="subheading mb-3">Shout! Media Productions</div>
-                <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+                <h3 className="mb-0">Netactica</h3>
+                <div className="subheading mb-3">Developer</div>
+                <p>Implementation of vendor simulations through Flask, test automation with Selenium, security test automation with OWASP ZAP, dashboard creation with Plotly Dash in Python, database administration in SQL Server and use of Amazon S3 Buckets, use of Scrapy, ElasticSearch and Kibana for the search of logs.</p>
             </div>
-            <div className="flex-shrink-0"><span className="text-primary">July 2010 - December 2011</span></div>
-        </div>
-        <div className="d-flex flex-column flex-md-row justify-content-between">
-            <div className="flex-grow-1">
-                <h3 className="mb-0">Web Design Intern</h3>
-                <div className="subheading mb-3">Shout! Media Productions</div>
-                <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
-            </div>
-            <div className="flex-shrink-0"><span className="text-primary">September 2008 - June 2010</span></div>
+            <div className="flex-shrink-0"><span className="text-primary">December 2020 – June 2021</span></div>
         </div>
       </div>
     ); 
